@@ -13,9 +13,9 @@ This page holds what I build on my own time.
 ### Projects
 
 - **[Cronkite](https://github.com/avdrav1/cronkite)**: a fast, Linux-native office suite in Rust.
-- **[bisco-first-played](https://github.com/avdrav1/bisco-first-played)** <!-- one line: what it does -->
-- **[omarchy-news](https://github.com/avdrav1/omarchy-news)** <!-- one line: what it does -->
-- **[vibehuntr-agent](https://github.com/avdrav1/vibehuntr-agent)** <!-- one line: what it does -->
+- **[FIRST TIME PLAYED](https://avdrav1.github.io/bisco-first-played/)**: an interactive timeline of every Disco Biscuits song debut, with the debut recording streamed from archive.org. Rebuilds daily. ([code](https://github.com/avdrav1/bisco-first-played))
+- **[News & Scores for Omarchy](https://github.com/avdrav1/omarchy-news)**: a Linux desktop bar widget with a live sports and headline ticker, game alerts, and article tabs.
+- **[Vibehuntr](https://github.com/avdrav1/vibehuntr-agent)**: a Gemini agent that plans group outings. It finds venues, picks a time that works, and lets friends vote in real time.
 
 ### Stack
 
