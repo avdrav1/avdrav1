@@ -1,3 +1,9 @@
+<!-- crosslink:start -->
+**Avniel Dravid** · AI Product Manager · Philadelphia, PA
+
+[LinkedIn](https://www.linkedin.com/in/dravid)
+<!-- crosslink:end -->
+
 ## Hi there 👋
 
 <!--
