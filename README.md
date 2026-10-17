@@ -4,7 +4,7 @@
 [LinkedIn](https://www.linkedin.com/in/dravid)
 <!-- crosslink:end -->
 
-I build AI products for people who are not engineers. Today that means conversational data tools at Civis Analytics, where I was the first product hire.
+I build AI products for people who are not engineers. Today that means conversational data tools at Civis Analytics, where I was the first AI product hire.
 
 Before that I spent 20 years shipping software at Amazon, Axon, and Nava, and on public systems like Healthcare.gov and New York City's COVID-19 test and trace program. I started as an engineer and co-founded a data startup that sold to Datacoup.
 
